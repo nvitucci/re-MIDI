@@ -20,5 +20,3 @@ How-To
 
 Sooner or later I'll write this section too :-)
 
-nick
-
