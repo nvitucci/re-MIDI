@@ -1,7 +1,7 @@
 Welcome!
 ========
 
-This repository might be called "re-MIDI" for several reasons:
+This repository might have been called "re-MIDI" for several reasons:
 
 - Re MIDI (Italian for "King MIDI") as a reference to King Midas?
 - Do, Re... MIDI?
@@ -13,12 +13,12 @@ Whatever. This is a (very) long-term experiment and workbench. The important thi
 Soundfonts
 ==========
 
-The soundfonts I use most often (for now) are ChoriumRevA, FluidR3 and Unison, but there are several resources such as www.hammersound.net where you can find a lot moire.
+The soundfonts I use most often (for now) are ChoriumRevA, FluidR3 and Unison, but there are several resources such as www.hammersound.net where you can find a lot more.
 
 How-To
 ======
 
-Sooner or later I'll write this too :-)
+Sooner or later I'll write this section too :-)
 
 nick
 
