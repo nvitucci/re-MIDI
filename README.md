@@ -20,3 +20,7 @@ How-To
 
 Sooner or later I'll write this section too :-)
 
+License
+=======
+
+I think a BY-NC license (http://creativecommons.org/licenses/by-nc/4.0/) should be good enough. I'm not sure about a BY-NC-SA license (http://creativecommons.org/licenses/by-nc-sa/4.0/): I have to find this out with my lawyers (i.e. me or whoever has a good suggestion).
