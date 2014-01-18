@@ -1,14 +1,15 @@
-Welcome!
-========
+Lost in MIDI
+============
 
-This repository might have been called "re-MIDI" for several reasons:
+Why is this repository called "re-MIDI"?
 
 - Re MIDI (Italian for "King MIDI") as a reference to King Midas?
 - Do, Re... MIDI?
+- re(vive) MIDI?
 - re(mix) MIDI?
 - re(view) MIDI?
 
-Whatever. This is a (very) long-term experiment and workbench. The important thing to remember is: MIDI is not dead!
+Whatever. This is a (very) long-term experiment and workbench, something I started as a kid which is now going somehow public. The important thing to remember is: MIDI is not dead!
 
 Soundfonts
 ==========
