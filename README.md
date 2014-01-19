@@ -14,7 +14,7 @@ Whatever. This is a (very) long-term experiment and workbench, something I start
 Soundfonts
 ==========
 
-The soundfonts I use most often (for now) are ChoriumRevA, FluidR3 and Unison, but there are several resources such as www.hammersound.net where you can find a lot more.
+The soundfonts I use most often (for now) are SGM-V2.01, ChoriumRevA, FluidR3 and Unison, but there are several resources such as www.hammersound.net where you can find a lot more.
 
 How-To
 ======
